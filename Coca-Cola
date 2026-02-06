@@ -60,7 +60,9 @@
     <h1>Coca Cola</h1>
     <h2>La bebida mas famosa del mundo</h2>
     <p>Coca-Cola es una de las marcas mas reconocidas del mundo</p>
-    <button>Comprar ahora</button>
+    <a href="https://www.coca-cola.com" target="_blank">
+    <button>Comprar Coca-Cola</button>
+</a>
 </div>
 </body>
 </html>
